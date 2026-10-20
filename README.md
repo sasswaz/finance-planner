@@ -2,6 +2,29 @@
 
 A household finance planner that runs locally in your browser. Enter your family's salaries and bonuses, other income, expenses, loans and savings goals. It projects your cash flow month by month for the coming years and shows what early loan payments would save.
 
+![Overview: monthly income, spending and savings, debt-free date, and savings and debt over time](docs/screenshots/01-overview.png)
+
+## Screenshots
+
+All screenshots use the built-in example family, not real data.
+
+<table>
+  <tr>
+    <td width="50%"><img src="docs/screenshots/02-money-flow.png" alt="Money-flow diagram from income sources to spending, loans and savings"><br><sub>Where the money goes</sub></td>
+    <td width="50%"><img src="docs/screenshots/10-compare.png" alt="Two plans compared side by side with a difference chart"><br><sub>Compare plans side by side</sub></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/09-debt-plan.png" alt="Debt payoff plan comparing manual, avalanche and snowball"><br><sub>Debt payoff plan: avalanche vs snowball</sub></td>
+    <td><img src="docs/screenshots/03-income.png" alt="Family members with salaries and bonuses"><br><sub>Salaries and bonuses on any schedule</sub></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/06-loan-editor.png" alt="Loan editor with rate changes, early payments and savings"><br><sub>Loan editor: rate changes, early payments, what-if</sub></td>
+    <td><img src="docs/screenshots/11-overview-dark.png" alt="Overview in dark mode"><br><sub>Dark mode</sub><br><br><img src="docs/screenshots/13-phone-overview.png" alt="Overview on a phone" width="45%"> <img src="docs/screenshots/14-phone-edit-expense.png" alt="Editing an expense on a phone" width="45%"><br><sub>On a phone</sub></td>
+  </tr>
+</table>
+
+More in [docs/screenshots](docs/screenshots).
+
 ## Run it
 
 ```bash
